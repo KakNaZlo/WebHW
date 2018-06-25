@@ -1,0 +1,19 @@
+*{box-sizing: border-box; }
+.container{width: 100%}
+.light{width: 30px;;border: 1px solid black; margin: 0 auto; 
+
+}
+	
+	 .green{width: 25px;height: 25px;background-color: darkgreen; border-radius:5px;  }
+	 .red{width: 25px;height: 25px;background-color:crimson; border-radius:5px;  }
+	 .yellow{width: 25px;height: 25px;background-color: darkorange; border-radius:5px;  }
+
+
+.active-green{background: green;  }
+.active-red{background: red; }
+.active-yellow{background: yellow;   }
+
+
+.add{background: black}
+
+
